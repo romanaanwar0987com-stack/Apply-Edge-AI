@@ -4,3 +4,6 @@ python-multipart
 PyPDF2
 groq
 python-dotenv
+pinecone
+sentence-transformers
+pandas
